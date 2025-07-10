@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/dhanu/Downloads/mlflow_for_ml/mlflow_for_ml_dev/notebooks/experiment_tracking_fundamentals/mlruns/0/af46876774034a90afd69016029827f8/artifacts
+end_time: 1752119794479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af46876774034a90afd69016029827f8
+run_name: stately-fawn-332
+run_uuid: af46876774034a90afd69016029827f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752119794400
+status: 3
+tags: []
+user_id: dhanu
