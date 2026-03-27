@@ -1,9 +1,5 @@
 **Complete End-to-End Linux Command Line Mastery (Bash, Filesystem, Processes, Networking, Permissions) – 2026 Edition**
 
-This is a **self-contained, practical, beginner-to-advanced guide** designed specifically as the **Phase 0 prerequisite** for your Kubernetes roadmap. It assumes zero prior Linux knowledge and takes you to the level where you can comfortably work with Docker, Kubernetes manifests, servers, and cloud VMs.
-
-**Time commitment**: 7–14 days (2–4 hours/day with heavy hands-on practice).  
-**Environment**: Use Ubuntu 24.04 LTS or later (or any modern Linux distro). If on Windows/Mac, install **WSL2** (Windows) or use a VM (VirtualBox/UTM).
 
 **Why this matters for Kubernetes**  
 - You’ll edit YAML manifests, manage container images, troubleshoot pods, debug network policies, and run production commands on control-plane nodes.
