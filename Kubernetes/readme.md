@@ -1,5 +1,5 @@
 
-**Kubernetes Complete Learning Roadmap (2026 Edition): From Absolute Beginner to Advanced/Production-Ready**
+**Kubernetes Complete Learning Roadmap (2026 Edition): From Absolute Beginner to Advanced/Production-Ready** 
 
 Kubernetes (K8s) is the industry-standard container orchestration platform. As of March 2026, the latest stable version is **Kubernetes v1.35.x** (with v1.35.3 released March 19, 2026). This roadmap follows the consensus from official Kubernetes docs, roadmap.sh, DevOpsCube, Coursera, CNCF resources, and popular 2026 guides. It is fully **step-by-step, practical, and end-to-end** — from zero knowledge to running production-grade clusters.
 
