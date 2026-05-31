@@ -1,4 +1,4 @@
-Below, I’ll guide you through creating a GitHub Actions project to automate a **Continuous Integration and Continuous Deployment (CI/CD) pipeline** for a Python Flask web application. The project will include building, testing, and deploying the app to a Docker container hosted on GitHub Container Registry (GHCR). This is a practical, real-world example suitable for someone learning GitHub Actions, building on your previous interest in MLflow, W&B, and Linux. I’ll provide step-by-step instructions, a complete workflow, and code examples to make it easy to understand and implement.
+ GitHub Actions project to automate a **Continuous Integration and Continuous Deployment (CI/CD) pipeline** for a Python Flask web application. The project will include building, testing, and deploying the app to a Docker container hosted on GitHub Container Registry (GHCR). This is a practical, real-world example suitable for someone learning GitHub Actions, building on your previous interest in MLflow, W&B, and Linux. I’ll provide step-by-step instructions, a complete workflow, and code examples to make it easy to understand and implement.
 
 ---
 
